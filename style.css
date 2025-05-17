@@ -151,7 +151,6 @@ body{
 	grid-area: 3 / 3 / 5 / 10;
 	background-color: #3f3f84;
 	padding: 1.6vh 1.5vh;
-	right: 30vh;
 	position: relative;
 	gap: 2vw;
 }
